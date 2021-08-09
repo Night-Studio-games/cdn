@@ -1,2 +1,4 @@
-# Night-Studio CLI
-The CLI for games, icons and avatars of Night-Studio
+# Night-Studio CDN
+The CDN for games, icons and avatars of Night-Studio
+
+In development
